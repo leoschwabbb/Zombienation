@@ -1,0 +1,32 @@
+#nz{
+    text-decoration: none;
+    color:green;
+    background-color: red;
+    border: solid;
+    border-color: red;
+    border-radius: 20%;
+  
+}
+h1{
+    display: grid;
+    place-content: center;
+    font-size:4rem;
+    padding:50px;
+    background-image: url(media/Zombie.webp);
+    text-shadow: 2px 2px 0 rgb(248, 4, 4),
+    -2px -2px 0 rgb(80, 0, 0),
+    2px -2px 0 rgb(204, 11, 4),
+  -2px 2px 0 rgb(0, 0, 0);
+    
+}
+body{
+    background-image: url(media/images\ \(1\).jpg);
+}
+footer{
+    display:grid;
+    place-content: center   ;
+}
+a{
+    display: grid;
+    place-content: center;
+}
